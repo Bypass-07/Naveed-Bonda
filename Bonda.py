@@ -1,2 +1,0 @@
-import nv
-nv.login()
